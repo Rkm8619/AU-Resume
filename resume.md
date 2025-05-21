@@ -15,10 +15,9 @@ I am a dedicated and adaptable professional with a proactive attitude and abilit
 - Microsoft Office  
 - Java Programming  
 - Python Programming  
-- Basic HTML and CSS  
+- HTML and CSS  
 - R Programming  
-- MySQL  
-- Power BI  
+- MySQL
 
 ---
 
